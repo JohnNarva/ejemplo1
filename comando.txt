@@ -6,3 +6,4 @@ git add .//" ." poner cualquier "nobre del archivo."uno especifico
 git commit -a -m"mensage"// para comentar
 git remote add origin "link" //conectar
 git push -u origin master //publicar
+

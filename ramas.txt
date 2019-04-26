@@ -1,0 +1,3 @@
+git brach //ver ramas
+git brach nombre de rtama //crear rama
+git checkout rama //ir a la rama
