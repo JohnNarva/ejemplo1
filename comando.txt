@@ -1,0 +1,8 @@
+git config --global user.name "nombre q te de la gana"
+git config --global user.email "nombre gmail"
+//primera ves 
+git init //inicializa
+git add .//" ." poner cualquier "nobre del archivo."uno especifico
+git commit -a -m"mensage"// para comentar
+git remote add origin "link" //conectar
+git push -u origin master //publicar
